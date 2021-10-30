@@ -7,4 +7,32 @@ body {
 	font-size: 14px;
 }
 
+.kontejner {
+	display: flex;
+	justify-content: center;
+	background-color: silver;
+	justify-items: center;
+	border-radius: 10px;
+}
+
+.pani {
+	background-color: white;
+	width: 22%;
+	justify-content: space-around;
+	text-align: center;
+	padding: 2rem;
+	margin: 2rem;
+	border-radius: 10px;
+}
+
+img {
+	width: 150px;
+	border-radius: 50%;
+}
+
+.ikona {
+	height: 35px;
+	width: 35px;
+}
+
 /* ---------------------------------------------------- */
